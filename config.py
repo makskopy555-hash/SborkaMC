@@ -3,7 +3,7 @@ import os
 # === Обязательные переменные окружения (задаются в Railway) ===
 
 # Токен бота от @BotFather
-BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_TOKEN = os.environ["8624909808:AAFpgTkXdGBTYhkKbbn-DQfZgj2hFZippcE"]
 
 # Публичный канал VexWorld, на который нужно подписаться.
 # Можно указать юзернейм (@VexWorld1) или числовой id канала.
